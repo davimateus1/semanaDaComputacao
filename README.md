@@ -26,8 +26,25 @@ Além de todos esses conceitos explicados, ainda fomos pra prática e mostrei tu
 </p>
  
 <hr>
+<br>
 
 ### ✨ Dia 2
+
+<p align="left">
+No segundo dia do minicurso, apresentei o restante dos conceitos primordiais no ReactJS, também dei a explicação desses conceitos de uma forma bastante detalhada para que os alunos conseguissem um entendimento melhor não só da prática, mas também da teoria e tudo que acontece por "de trás" dos panos no React, as abordagens desse segundo dia foram as seguintes:
+
+<ul>
+  <li>Consumo de módulos externos</li>
+  <li>Consumo de API com Axios</li>
+  <li>Rotas com React Router DOM</li>
+  <li>Projeto para fixação e portfólio</li>
+</ul>
+
+Além de todos esses conceitos explicados, ainda fomos para a prática e criamos um projeto do zero ao deploy abordando todos os conceitos que foram explicados durante o minicurso e que também servirá de portfólio para os alunos.
+</p>
+
+<hr>
+<br>
 
 <h1 align="center">
  <img alt="move.it" title="move.it" src="https://user-images.githubusercontent.com/66326378/168445917-1706023f-969f-4a14-b5da-604c61f301e3.png" width="25%"  />
