@@ -1,0 +1,44 @@
+.container {
+  background-color: #de94be;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.logo {
+  width: 20rem;
+}
+
+.cards_container {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  min-height: 36rem;
+  max-width: 90%;
+  flex-wrap: wrap;
+}
+
+.btn_pages {
+  margin-top: 20px;
+}
+
+.btn_pages button {
+  -webkit-text-stroke-width: 1.5px;
+  -webkit-text-stroke-color: #de94be;
+  border-radius: 10px;
+  cursor: pointer;
+  color: #00b5cc;
+  font-size: 20px;
+  font-family: "Creepster", cursive;
+  background-color: #f0e14a;
+  border: 3px solid #add92b;
+  padding: 5px 20px;
+  transition: all 0.5s;
+  margin: 10px;
+}
+
+.btn_pages button:disabled {
+  cursor: not-allowed;
+  opacity: 0.5;
+}

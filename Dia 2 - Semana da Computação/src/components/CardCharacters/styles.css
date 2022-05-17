@@ -1,0 +1,33 @@
+.card {
+  text-align: center;
+  background-color: #f0e14a;
+  border-radius: 20px;
+  font-family: "Creepster", cursive, sans-serif;
+  color: #00b5cc;
+  -webkit-text-stroke-width: 0.5px;
+  -webkit-text-stroke-color: #add92b;
+  transition: all 0.3s;
+  width: 10rem;
+  margin: 1rem;
+  padding: 2rem;
+  border: 1.5px solid #44281d;
+}
+
+.card:hover {
+  -webkit-transform: scale(1.05);
+  transform: scale(1.05);
+}
+
+.character_img {
+  border-radius: 50%;
+  width: 100%;
+  border: 3px solid #de94be;
+}
+
+.character_name,
+.character_infos {
+  max-width: 99%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}

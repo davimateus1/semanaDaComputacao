@@ -1,0 +1,28 @@
+.container {
+  background-color: #de94be;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  min-height: 100vh;
+  height: auto;
+}
+
+.logo_error {
+  width: 40rem;
+}
+
+.title_error {
+  -webkit-text-stroke-width: 1.5px;
+  -webkit-text-stroke-color: #add92b;
+  color: #00b5cc;
+  font-size: 60px;
+  text-align: center;
+  font-family: "Creepster", cursive;
+}
+
+@media (max-width: 660px) {
+  .logo_error {
+    display: none;
+  }
+}

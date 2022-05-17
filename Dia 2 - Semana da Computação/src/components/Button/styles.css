@@ -1,0 +1,22 @@
+.btn_component {
+  -webkit-text-stroke-width: 1.5px;
+  -webkit-text-stroke-color: #de94be;
+  border-radius: 10px;
+  cursor: pointer;
+  color: #00b5cc;
+  font-size: 30px;
+  font-family: "Creepster", cursive;
+  background-color: #f0e14a;
+  border: 3px solid #add92b;
+  padding: 10px 10px 10px 10px;
+  transition: all 0.5s;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  margin-bottom: 2rem;
+}
+
+.btn_component:hover {
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1);
+}
