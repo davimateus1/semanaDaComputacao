@@ -105,7 +105,7 @@ Esse projeto foi desenvolvido para repassar conhecimentos aos alunos durante o m
  
 ## 🚀 Deploy do Projeto
 
-Você pode ver o funcionamento através [desse link]().
+Você pode ver o funcionamento através [desse link](https://semana-da-computacao.vercel.app).
 
 <br>
 
